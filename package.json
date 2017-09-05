@@ -1,0 +1,12 @@
+{
+  "name": "nodejs_crawler",
+  "version": "1.0.0",
+  "main": "main.js",
+  "author": "rt3lpiz",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "request": "^2.81.0",
+    "simplecrawler": "^1.1.5"
+  }
+}
